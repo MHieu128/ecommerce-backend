@@ -1,0 +1,1 @@
+docker build -t minhhieudn98/nfsqlserver2022 .
